@@ -63,7 +63,7 @@ python prediction.py --config config/DIN_microlens_mmctr_tuner_config_01 --expid
 ## Task2: Multimodal CTR Prediction
 
 Our model is roughly based on **Transformer** and **FinalMLP**. 
-
+We also reference https://github.com/pinskyrobin/WWW2025_MMCTR#
 ## Environment
 
 We run the experiments on a customized 4090 GPU server with 24GB memory from [AutoDL](https://www.autodl.com/).
